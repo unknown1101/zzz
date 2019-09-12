@@ -2,7 +2,6 @@
   "name": "zz",
   "version": "1.0.0",
   "description": "",
-  "main": "Server.js",
   "scripts": {
     "start": "node Server.js"
   },
