@@ -4,9 +4,9 @@
   "description": "",
   "main": "Server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node Server.js"
   },
-  "repository": {
+    "repository": {
     "type": "git",
     "url": "git+https://github.com/unknown1101/zz.git"
   },
